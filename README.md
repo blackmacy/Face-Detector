@@ -1,6 +1,6 @@
 # Face Recognition Web Application
 
-See link [here](https://face-detector-project.herokuapp.com)
+See demo [here](https://face-detector-project.herokuapp.com)
 
 * Builed a User Interface API using React.js and styled with CSS that included user interaction (login, logout, signup).
 * Calculated & updated page rank value for each web page via a matrix multiplication algorithm.
