@@ -1,5 +1,7 @@
 # Face Recognition Web Application
 
+A full stack project that can recognize and detect human's face using Clarifai Machine Learning API. 
+
 See demo [here](https://face-detector-project.herokuapp.com)
 
 * Builed a User Interface API using React.js and styled with CSS that included user interaction (login, logout, signup).
